@@ -1,0 +1,32 @@
+.animal_card {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 540px;
+  height: fit-content;
+  border: 2px solid black;
+  padding: 40px;
+  margin: 30px;
+  border-radius: 8px;
+}
+
+.card_title {
+  font-size: 30px;
+  color: purple;
+  font-weight: bold;
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+}
+
+.card_info {
+  font-size: 24px;
+  color: black;
+}
+
+.button_container {
+  width: 500px;
+  margin-bottom: 15px;
+}
