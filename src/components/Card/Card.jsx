@@ -1,5 +1,7 @@
 import card from "../Card/data.js";
 
+import "./styles.css";
+
 function Card() {
   return (
     <div className="card">
