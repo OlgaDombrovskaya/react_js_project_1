@@ -1,0 +1,14 @@
+.login_form {
+  border: 1px solid rgb(0, 0, 0);
+  padding: 60px;
+  border-radius: 4px;
+  max-width: 590px;
+  width: 100%;
+  background-color: white;
+}
+
+.form_title {
+  font-size: 24px;
+  font-weight: lighter;
+  margin-bottom: 30px;
+}
