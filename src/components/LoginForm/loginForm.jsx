@@ -1,6 +1,6 @@
 import "./styles.css";
 import Button from "../Button/Button";
-import Input from "../Input/input";
+import Input from "../Input/Input";
 
 function LoginForm() {
     return (
