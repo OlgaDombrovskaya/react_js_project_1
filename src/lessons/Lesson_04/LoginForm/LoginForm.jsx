@@ -1,4 +1,4 @@
-import Button from "../Button/Button";
+import Button from "../../../components/Button/Button";
 import Input from "../Input/Input";
 
 import "./styles.css";
