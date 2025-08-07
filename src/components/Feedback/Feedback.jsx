@@ -18,12 +18,7 @@ function Feedback() {
   };
 
   const ResetResults = () => {
-    setLikeCount((prevValue) => {
-      return (prevValue = 0);
-    });
-    setDislikeCount((prevValue) => {
-      return (prevValue = 0);
-    });
+setLikeCount(0); setDislikeCount(0);
   };
 
   return (
