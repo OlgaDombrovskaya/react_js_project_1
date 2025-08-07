@@ -1,0 +1,8 @@
+.homework_04_page_wrapper {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    background-color: rgb(5, 5, 52);
+}

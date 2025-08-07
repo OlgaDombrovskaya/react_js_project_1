@@ -1,4 +1,4 @@
-import LoginForm from "../../components/LoginForm/LoginForm";
+import LoginForm from "../../Lesson_04/LoginForm/LoginForm";
 
 import "./styles.css";
 

@@ -1,5 +1,5 @@
 import SimpsonsCard from "../components/SimpsonsCard/SimpsonsCard";
-import Button from "../components/Button/Button";
+import Button from "../../../components/Button/Button";
 
 import "./styles.css";
 
